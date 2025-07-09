@@ -12,6 +12,12 @@ Home con Scroll:
 
 
 
+
+
+
+
+
+
 Diseño moderno y atractivo con animaciones fluidas al hacer scroll.
 Efectos visuales implementados con React y librerías de animación.
 Totalmente adaptable a diferentes tamaños de pantalla.
