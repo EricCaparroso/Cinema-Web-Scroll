@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/20e026e9-5897-4a4c-b342-6b1d304ef1f3
 
 Carrusel Interactivo: 
 
-<img width="1440" alt="Captura de pantalla 2025-07-09 a las 5 36 40" src="https://github.com/user-attachments/assets/fe5175f9-a168-40cc-9529-6c61eeb0dffa" />
+<img width="1167" alt="Captura de pantalla 2025-07-09 a las 5 57 08" src="https://github.com/user-attachments/assets/f086c9ef-d0c6-4e35-ae9e-d0f321c6daea" />
 
 🛠 Tecnologías Utilizadas
 
