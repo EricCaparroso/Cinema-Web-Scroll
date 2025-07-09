@@ -47,31 +47,11 @@ https://github.com/user-attachments/assets/20e026e9-5897-4a4c-b342-6b1d304ef1f3
 
 
 
-Secciones en Desktop: Ver captura (pendiente de adjuntar)
-
-
-<img width="1440" alt="Captura de pantalla 2025-07-09 a las 5 36 34" src="https://github.com/user-attachments/assets/4ef31343-f30e-4372-8a03-629c689d70db" />
-
-
-
-<img width="1440" alt="Captura de pantalla 2025-07-09 a las 5 36 52" src="https://github.com/user-attachments/assets/2822c73f-c376-4ae4-bbae-107f6a6b9168" />
-
-
-
-Vista en Tablet y Móvil: Ver comparativa (pendiente de adjuntar)
-
-<img width="831" alt="Captura de pantalla 2025-07-09 a las 5 38 23" src="https://github.com/user-attachments/assets/c27625b8-9d2d-4e4a-b91c-db33b4a8381d" />
-
-<  img width="330" alt="Captura de pantalla 2025-07-09 a las 5 37 38" src="https://github.com/user-attachments/assets/83ccbda7-0682-49af-be96-4e7337d11fcc" />
-
-<img width="323" alt="Captura de pantalla 2025-07-09 a las 5 38 06" src="https://github.com/user-attachments/assets/c656981f-4f12-499d-8b10-3a575e9d0fed" />
-
-
-Carruseles Interactivos: Ver funcionamiento (pendiente de adjuntar)
-🛠 Tecnologías Utilizadas
+Carrusel Interactivo: 
 
 <img width="1440" alt="Captura de pantalla 2025-07-09 a las 5 36 40" src="https://github.com/user-attachments/assets/fe5175f9-a168-40cc-9529-6c61eeb0dffa" />
 
+🛠 Tecnologías Utilizadas
 
 React (Componentes reutilizables, Hooks)
 React Router (Navegación entre páginas)
