@@ -1,5 +1,6 @@
-README - Proyecto Web de Cine con React
-Bienvenido/a al repositorio de mi proyecto web de cine, desarrollado con React. Esta plataforma combina un home interactivo con scroll y un landing page con secciones temáticas de cine, diseñado para ser completamente responsivo en dispositivos móviles, tablets y desktop.
+Proyecto Web de Cine con React
+
+Bienvenido/a al repositorio de mi proyecto web para cines, desarrollado con React. Esta plataforma combina un home interactivo con scroll y un landing page con secciones temáticas de cines, diseñado para ser completamente responsivo en dispositivos móviles, tablets y desktop.
 
 📌 Descripción
 
@@ -9,10 +10,14 @@ Home con Scroll:
 
 <img width="1440" alt="Captura de pantalla 2025-07-09 a las 5 34 41" src="https://github.com/user-attachments/assets/d6098d2e-1198-4599-985e-9fa867e5e4db" />
 
+
+
 Diseño moderno y atractivo con animaciones fluidas al hacer scroll.
 Efectos visuales implementados con React y librerías de animación.
 Totalmente adaptable a diferentes tamaños de pantalla.
 Landing Page de Cine:
+
+
 
 <img width="1440" alt="Captura de pantalla 2025-07-09 a las 5 36 34" src="https://github.com/user-attachments/assets/44b2e9f4-8f7a-4b9e-8bed-b75c56309b9a" />
 
@@ -21,6 +26,8 @@ Landing Page de Cine:
 Secciones organizadas por categorías (estrenos, clásicos, recomendados, etc.).
 Dos carruseles interactivos desarrollados con React para mostrar películas y destacados.
 Diseño optimizado para móvil y tablet, con disposición adaptable de contenido.
+
+
 📱 Capturas y Demostraciones
 
 Home con Scroll
@@ -32,11 +39,17 @@ Inicio del Home:
 Video del Scroll: Ver demostración (pendiente de adjuntar)
 🎬 Landing Page de Cine
 
+
 https://github.com/user-attachments/assets/20e026e9-5897-4a4c-b342-6b1d304ef1f3
 
 
+
 Secciones en Desktop: Ver captura (pendiente de adjuntar)
-<img width="1440" alt="Captura de pantalla 2025-07-09 a las 5 36 40" src="https://github.com/user-attachments/assets/2109d973-8842-402d-9b33-d04889127622" />
+
+
+<img width="1440" alt="Captura de pantalla 2025-07-09 a las 5 36 34" src="https://github.com/user-attachments/assets/4ef31343-f30e-4372-8a03-629c689d70db" />
+
+
 
 <img width="1440" alt="Captura de pantalla 2025-07-09 a las 5 36 52" src="https://github.com/user-attachments/assets/2822c73f-c376-4ae4-bbae-107f6a6b9168" />
 
@@ -62,7 +75,9 @@ React Router (Navegación entre páginas)
 CSS Modules / Styled Components (Estilos modulares)
 Librerías de Animación (Framer Motion, AOS, etc.)
 Responsive Design (Media Queries, Mobile-First)
-🌟 Características Destacadas
+
+
+Características Destacadas
 
 ✅ Diseño Fluido: Transiciones suaves en el scroll con React.
 ✅ Carruseles Dinámicos: Implementados con hooks como useState y useEffect.
@@ -85,6 +100,5 @@ Abre http://localhost:3000 en tu navegador para explorar el proyecto.
 
 Los carruseles están desarrollados con React para una mejor gestión del estado.
 Las animaciones pueden usar librerías como Framer Motion o soluciones CSS puras.
-✨ ¡Disfruta de esta experiencia cinematográfica hecha con React! ✨
 
-Si tienes feedback o sugerencias, ¡no dudes en contactarme! 🚀
+Si tienes feedback o sugerencias, ¡no dudes en contactarme! 
