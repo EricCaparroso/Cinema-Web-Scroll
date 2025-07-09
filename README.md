@@ -1,81 +1,90 @@
-# Getting Started with Create React App
+README - Proyecto Web de Cine con React
+Bienvenido/a al repositorio de mi proyecto web de cine, desarrollado con React. Esta plataforma combina un home interactivo con scroll y un landing page con secciones temáticas de cine, diseñado para ser completamente responsivo en dispositivos móviles, tablets y desktop.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+📌 Descripción
 
-## Available Scripts
+El proyecto consta de dos partes principales:
 
-In the project directory, you can run:
+Home con Scroll:
 
-### `npm start`
+<img width="1440" alt="Captura de pantalla 2025-07-09 a las 5 34 41" src="https://github.com/user-attachments/assets/d6098d2e-1198-4599-985e-9fa867e5e4db" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Diseño moderno y atractivo con animaciones fluidas al hacer scroll.
+Efectos visuales implementados con React y librerías de animación.
+Totalmente adaptable a diferentes tamaños de pantalla.
+Landing Page de Cine:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="1440" alt="Captura de pantalla 2025-07-09 a las 5 36 34" src="https://github.com/user-attachments/assets/44b2e9f4-8f7a-4b9e-8bed-b75c56309b9a" />
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+Secciones organizadas por categorías (estrenos, clásicos, recomendados, etc.).
+Dos carruseles interactivos desarrollados con React para mostrar películas y destacados.
+Diseño optimizado para móvil y tablet, con disposición adaptable de contenido.
+📱 Capturas y Demostraciones
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Home con Scroll
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Inicio del Home:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img width="1437" alt="Captura de pantalla 2025-07-09 a las 5 35 00" src="https://github.com/user-attachments/assets/ea3e83b7-ec08-4067-b570-4f01f849ec20" />
 
-### `npm run eject`
+Video del Scroll: Ver demostración (pendiente de adjuntar)
+🎬 Landing Page de Cine
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+https://github.com/user-attachments/assets/20e026e9-5897-4a4c-b342-6b1d304ef1f3
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Secciones en Desktop: Ver captura (pendiente de adjuntar)
+<img width="1440" alt="Captura de pantalla 2025-07-09 a las 5 36 40" src="https://github.com/user-attachments/assets/2109d973-8842-402d-9b33-d04889127622" />
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<img width="1440" alt="Captura de pantalla 2025-07-09 a las 5 36 52" src="https://github.com/user-attachments/assets/2822c73f-c376-4ae4-bbae-107f6a6b9168" />
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Vista en Tablet y Móvil: Ver comparativa (pendiente de adjuntar)
 
-### Code Splitting
+<img width="831" alt="Captura de pantalla 2025-07-09 a las 5 38 23" src="https://github.com/user-attachments/assets/c27625b8-9d2d-4e4a-b91c-db33b4a8381d" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<  img width="330" alt="Captura de pantalla 2025-07-09 a las 5 37 38" src="https://github.com/user-attachments/assets/83ccbda7-0682-49af-be96-4e7337d11fcc" />
 
-### Analyzing the Bundle Size
+<img width="323" alt="Captura de pantalla 2025-07-09 a las 5 38 06" src="https://github.com/user-attachments/assets/c656981f-4f12-499d-8b10-3a575e9d0fed" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+Carruseles Interactivos: Ver funcionamiento (pendiente de adjuntar)
+🛠 Tecnologías Utilizadas
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<img width="1440" alt="Captura de pantalla 2025-07-09 a las 5 36 40" src="https://github.com/user-attachments/assets/fe5175f9-a168-40cc-9529-6c61eeb0dffa" />
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+React (Componentes reutilizables, Hooks)
+React Router (Navegación entre páginas)
+CSS Modules / Styled Components (Estilos modulares)
+Librerías de Animación (Framer Motion, AOS, etc.)
+Responsive Design (Media Queries, Mobile-First)
+🌟 Características Destacadas
 
-### Deployment
+✅ Diseño Fluido: Transiciones suaves en el scroll con React.
+✅ Carruseles Dinámicos: Implementados con hooks como useState y useEffect.
+✅ Responsive: Adaptable a móvil, tablet y desktop gracias a enfoque mobile-first.
+✅ Optimizado: Carga rápida gracias a React y lazy loading.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+🔍 ¿Cómo Ver el Proyecto?
 
-### `npm run build` fails to minify
+Clona el repositorio:
+bash
+git clone [url-del-repositorio]  
+Instala las dependencias:
+bash
+npm install  
+Inicia el servidor de desarrollo:
+bash
+npm start  
+Abre http://localhost:3000 en tu navegador para explorar el proyecto.
+📝 Notas Adicionales
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Cinema-Web-Scroll
-# Landindg-gta-vi
-# Cinema-Web-Scroll
-# Cinema-Web-Scroll
-# Cinema-Web-Scroll
-# Cinema-Web-Scroll
-# Cinema-Web-Scroll
-# Cinema-Web-Scroll
-# Cinema-Web-Scroll
-# Cinema-Web-Scroll
-# Cinema-Web-Scroll
+Los carruseles están desarrollados con React para una mejor gestión del estado.
+Las animaciones pueden usar librerías como Framer Motion o soluciones CSS puras.
+✨ ¡Disfruta de esta experiencia cinematográfica hecha con React! ✨
+
+Si tienes feedback o sugerencias, ¡no dudes en contactarme! 🚀
