@@ -62,10 +62,10 @@ Responsive Design (Media Queries, Mobile-First)
 
 Características Destacadas
 
-✅ Diseño Fluido: Transiciones suaves en el scroll con React.
-✅ Carruseles Dinámicos: Implementados con hooks como useState y useEffect.
-✅ Responsive: Adaptable a móvil, tablet y desktop gracias a enfoque mobile-first.
-✅ Optimizado: Carga rápida gracias a React y lazy loading.
+ Diseño Fluido: Transiciones suaves en el scroll con React.
+ Carruseles Dinámicos: Implementados con hooks como useState y useEffect.
+ Responsive: Adaptable a móvil, tablet y desktop gracias a enfoque mobile-first.
+ Optimizado: Carga rápida gracias a React y lazy loading.
 
 🔍 ¿Cómo Ver el Proyecto?
 
@@ -77,7 +77,7 @@ bash
 npm install  
 Inicia el servidor de desarrollo:
 bash
-npm start  
+npm run start  
 Abre http://localhost:3000 en tu navegador para explorar el proyecto.
 📝 Notas Adicionales
 
