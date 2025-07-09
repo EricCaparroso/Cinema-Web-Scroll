@@ -1,0 +1,28 @@
+
+
+    <article> → Contenido independiente con información completa, como un blog o noticia.
+
+    <aside> → Información secundaria, como barras laterales o notas.
+
+    <details> → Se usa para mostrar contenido opcionalmente expandible.
+
+    <figure> → Contenedor para imágenes, gráficos o ilustraciones con <figcaption>.
+
+    <figcaption> → Descripción de una imagen dentro de <figure>
+
+    <footer> → Pie de página de un documento, sección o artículo.
+
+    <header> → Encabezado de una página o sección.
+
+    <main> → Contenido principal del documento.
+
+    <mark> → Texto resaltado para enfatizar información.
+
+    <nav> → Enlaces de navegación dentro del sitio web.
+
+    <section> → Agrupa contenido relacionado dentro de una página.
+
+    <summary> → Título de un <details>, visible antes de expandirse.
+
+    <time> → Representa una fecha u hora específica.
+
